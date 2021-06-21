@@ -1,0 +1,3 @@
+For this project I changed all of the div tags in the html document to semantic text. I also cleaned up the page by spacing and organizing the code.
+All of the images on the page were given an Alt name and the website was given a title. The "SEO" in the main title was made darker and more noticable
+as it stands for something important on the website. This was then all uploaded to my github repository for others to view.
